@@ -36,7 +36,7 @@
  3. Quando completar a tarefa dê um duplo clique nela para apaga-la
 
 ### Screenshot
-![](./assets/images/Screenshot.png)
+![](./assets/images/Screenshot.PNG)
 ### Links
 - Site hospedado: [Lista de Tarefas](link)
 
