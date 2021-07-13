@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+:root {
+   --cor1: #172540;
+   --cor2: #3C6AA6;
+   --cor3: #638BBF;
+   --cor4: #9AB5D9;
+   --cor5: #A66B38;
+}
+
+body {
+   background: var(--cor4);
+}
+
+.card {
+   border: none;
+}
+
+.card-header {
+   background: var(--cor1);
+   color: var(--cor4);
+}
+
+.card-body {
+   background: var(--cor2);
+}
+
+#lista li{ 
+   background: #d5e7ff;
+}
+
+.social i {
+   font-size: 2.1rem;
+   color: white;
+}
+
+.social a:hover {
+   text-decoration: none;
+}
+
+.icons {
+   height: 1rem;
+}
+
+.icons i {
+   font-size: 1.4rem;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+.icons  i.icon-check {
+   color: green;
+}
+
+#lista p {
+   font-family: 'Otomanopee One', sans-serif;
+   font-size: 1.2rem;
+}
